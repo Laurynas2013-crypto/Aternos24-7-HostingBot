@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TuskulenuSMP.aternos.me:41334",
+    "ip": "TuskulenuSMP.aternos.me",
     "port": 41334,
     "version": "1.21.11",
     "try-creative": false
